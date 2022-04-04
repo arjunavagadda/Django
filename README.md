@@ -1,2 +1,2 @@
 # Django
-django-corey
+django-corey lectures
